@@ -6,4 +6,8 @@ var age = prompt('What is your age?');
 var age = parseInt(age, 10);
 
 var edad = age + 10;
-console.log("Su edad es: " + age);
+
+
+console.log(edad)
+
+// console.log(parseInt(age)+10);
