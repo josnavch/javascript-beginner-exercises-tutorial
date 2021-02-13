@@ -298,7 +298,7 @@
         {
             "slug": "22-Russian-Roulette",
             "title": "22-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Russian-Roulette",
             "translations": [
                 "es",
@@ -320,7 +320,7 @@
         {
             "slug": "24-Bottles-of-milk",
             "title": "24-Bottles-of-milk",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Bottles-of-milk",
             "translations": [
                 "es",
@@ -331,7 +331,7 @@
         {
             "slug": "25-Javascript-Objects",
             "title": "25-Javascript-Objects",
-            "done": false,
+            "done": true,
             "path": "exercises/25-Javascript-Objects",
             "translations": [
                 "es",
